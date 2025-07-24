@@ -1,0 +1,4 @@
+requests /*TO call API*/
+plyer (for desktop) /*Notification*/
+schedule or cron /*Automation*/
+built-in json /*Data Parsing*/
